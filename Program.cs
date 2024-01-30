@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-
-namespace Fibonacci
+﻿namespace Fibonacci
 {
     internal class Program
     {
